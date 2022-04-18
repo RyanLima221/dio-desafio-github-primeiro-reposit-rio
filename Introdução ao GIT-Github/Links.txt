@@ -1,0 +1,5 @@
+Link para dowload do Git: https://git-scm.com
+
+O git é um terminal para desenvolvimento de repositórios com participação de muitos usuários (outros dev), ou seja, é um terminal estendido para otimizar o uso do Git.
+
+Link para o entendimento do Markdown: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
